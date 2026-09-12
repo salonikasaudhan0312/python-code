@@ -25,15 +25,17 @@
 # print("factorial of a number=", factorial(5))
 
 
-# prime number 
-def prime(n):
-  if n < 2:
-    return False
-  for i in range(2, n):
-    if n % i == 0:
-      return False
-  return True
-if prime(7):
-  print("prime number")
-else:
-  print("not a prime number")
+# # prime number 
+# def prime(n):
+#   if n < 2:
+#     return False
+#   for i in range(2, n):
+#     if n % i == 0:
+#       return False
+#   return True
+# if prime(7):
+#   print("prime number")
+# else:
+#   print("not a prime number")
+
+
