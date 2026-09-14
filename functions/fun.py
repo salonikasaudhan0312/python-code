@@ -39,13 +39,12 @@
 #   print("not a prime number")
 
 
-# palindrome number
-def palindrome(n):
-    return str(n) == str(n)[::-1]
+# # palindrome number
+# def palindrome(n):
+#     return str(n) == str(n)[::-1]
+# n = input("Enter number: ")
+# if palindrome(n):
+#     print("Palindrome")
+# else:
+#     print("Not Palindrome")
 
-n = input("Enter number: ")
-
-if palindrome(n):
-    print("Palindrome")
-else:
-    print("Not Palindrome")
