@@ -52,3 +52,4 @@ import pandas as pd
 # df2["Designation"] = ["Doctor","Eng","Doctor","Eng"]
 # df2=df2.drop(["City","Salary"],axis=1)
 # print(df2)
+
