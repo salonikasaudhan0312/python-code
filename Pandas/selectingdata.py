@@ -1,4 +1,3 @@
-# AQI data set
 import pandas as pd
 
 df = pd.read_csv(r"C:\Users\HP\Downloads\archive.zip")
