@@ -1,0 +1,16 @@
+id,name,age,city,marks,attendance
+1,Rahul,20,Delhi,78,85
+2,Priya,21,Mumbai,92,95
+3,Aman,,Kanpur,65,72
+4,Neha,22,Lucknow,,91
+5,Rohit,20,,55,68
+6,Simran,21,Delhi,81,
+7,Arjun,23,Jaipur,,80
+8,Pooja,19,Kanpur,95,97
+9,Karan,,Agra,62,75
+10,Anjali,20,Lucknow,86,
+11,Vikas,21,,74,88
+12,Shreya,,Mumbai,91,94
+13,Manish,22,Delhi,,79
+14,Kavita,20,Kanpur,68,
+15,Deepak,23,,59,65
